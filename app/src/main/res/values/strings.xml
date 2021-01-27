@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Hero</string>
+    <string name="app_title">Hero list</string>
+    <string name="app_registration">Registration</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_checkbox">Remember me</string>
+    <string name="login_login_btn">Login</string>
+    <string name="login_register_btn">Register</string>
+    <string name="login_invalid_username">Wrong Username Or/And Password</string>
+
+    <string name="register_invalid_validation">Validation is wrong</string>
+    <string name="register_username">Type Username</string>
+    <string name="register_email">Type Email</string>
+    <string name="register_password">Type Password</string>
+    <string name="register_register_btn" >Register</string>
+
+    <string name="search_loading_data">Please wait for Hero data to be displayed</string>
+    <string name="search_error_reading_data">Couldnt read data from API. For more information: </string>
+    <string name="search_no_results">No search results found for query: </string>
+    <string name="search_found_entries_from_api">Found total number of Heroes entries: </string>
+
+
+    <string name="new_entry_last_update">Strength:</string>
+    <string name="new_entry_strength_1">70</string>
+    <string name="new_entry_strength_2">100</string>
+    <string name="new_entry_strength_3">150</string>
+    <string name="new_entry_strength_4">190</string>
+    <string name="new_entry_power">Power:</string>
+    <string name="new_entry_power_10">10</string>
+    <string name="new_entry_power_50">50</string>
+    <string name="new_entry_power_110">110</string>
+    <string name="new_entry_power_160">160</string>
+    <string name="new_entry_hero">Heroes:</string>
+    <string name="new_entry_hero_Iron_Man">Iron-man</string>
+    <string name="new_entry_hero_Captain_America">Captain-America</string>
+    <string name="new_entry_hero_Thor">Thor</string>
+    <string name="new_entry_hero_Hulk">Hulk</string>
+    <string name="new_entry_speed">Speed:</string>
+    <string name="new_entry_command">Command:</string>
+    <string name="new_entry_display_btn">New hero stats</string>
+    <string name="new_entry_invalid_confirmed">Invalid length speed number</string>
+
+</resources>
